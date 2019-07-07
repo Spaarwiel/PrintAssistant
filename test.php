@@ -47,7 +47,7 @@ if ($result->num_rows > 0) {
 		echo '<tr>'. '<th>' . $row["w_t"] . '<td>' . $row["size"] . '</td>' . '<td>' . $row["colour"] . '</td>' . '<td>' . $row["outwork"] . '<td>' . $row["total_needed"] . '<td>' . $row["total_completed"] . '</td>' . '<td>' . '<a class="btn btn-primary" href="#">' . 'Add' . '</a>' . '</td>' . '</th>' . '</tr>';
     }
 } else {
-    echo '<p class="text-center">' . 'There is no jobs' . '</p>';
+    echo '<p>' . 'There is no jobs' . '</p>';
 }
 $conn->close();
 ?>
@@ -68,4 +68,9 @@ $conn->close();
 <?php
 //Include footer file
 include('include/footer.php');
-?>
+?> 
+
+	
+		
+	
+
