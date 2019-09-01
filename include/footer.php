@@ -12,5 +12,5 @@
 </html>
 
 <footer>
-	<p class="text-center">Copyright &copy; 2019, Web development by <a href="www.jleroux.co.za">J.Leroux - Web Developer</a></p>
+	<p class="text-center">Copyright &copy; 2019, Web development by <a href="http://www.jovanleroux.co.za" target="_blank">J.Leroux - Web Developer</a></p>
 </footer>

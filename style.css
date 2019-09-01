@@ -99,6 +99,7 @@ h2 {
 }
 
 @media only screen and (max-width: 576px) {
+    
     .printLogo {
         font-size: 1.5em;
     }
